@@ -9,3 +9,7 @@ Currently, two official plugins are available:
 
 
 # Açıklama
+
+API: https://www.weatherapi.com
+
+When you create an .env file and add VITE_WEATHER_API=your key, the service will run.

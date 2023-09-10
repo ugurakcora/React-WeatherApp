@@ -13,3 +13,6 @@ Currently, two official plugins are available:
 API: https://www.weatherapi.com
 
 When you create an .env file and add VITE_WEATHER_API=your key, the service will run.
+
+
+<img src="/src/assets/weatherapp-img.png" alt="alt text" width="320" height="180">
